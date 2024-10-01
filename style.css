@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    background-color: rgb(163, 4, 4);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px; 
+    font-style: italic;
+    color: aliceblue;
+    border: 2px solid navy;
+}
+
+h2{
+    background-color: rgb(255, 17, 0);
+}
+
+h3{ 
+   background-color: rgb(255, 72, 0); 
+}
+
+h4{
+    background-color: rgb(255, 136, 0);
+}
+
+h5{
+    background-color: rgb(255, 166, 0);
+}
+
+h6{
+    background-color: rgb(255, 186,0);
+}
+
+p{
+    background-color: darkgray;
+}
+
+img{
+    width: 50%;
+    height: 500px;
+}
